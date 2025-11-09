@@ -44,9 +44,17 @@ Estagiário: com escola e meses de estágio (sem bônus)
 # Funcionalidades da Interface:
 
  Cadastrar: Adiciona novos funcionários ao sistema
+
+ 
  Exibir Dados: Lista todos os funcionários cadastrados
+
+ 
  Limpar: Limpa os campos do formulário
+
+ 
  Atualização Dinâmica: Campos específicos aparecem conforme o cargo selecionado
+
+ 
 
 # Recursos Avançados:
 
