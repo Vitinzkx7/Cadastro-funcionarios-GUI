@@ -4,7 +4,7 @@
  # Sobre o Projeto
 Sistema desenvolvido para gerenciar o cadastro de diferentes tipos de funcionários (Gerentes, Desenvolvedores e Estagiários) em uma empresa, com cálculo automático de bônus e salários finais. O projeto foi criado como parte da disciplina de Laboratório de Técnicas de Programação Orientada a Objetos.
  
- # Objestivos:
+ # Objetivos:
 
 ✅ Aplicar conceitos de Herança em Java
 ✅ Implementar Classes Abstratas e Interfaces
