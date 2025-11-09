@@ -6,12 +6,22 @@ Sistema desenvolvido para gerenciar o cadastro de diferentes tipos de funcionár
  
  # Objetivos:
 
-✅ Aplicar conceitos de Herança em Java
-✅ Implementar Classes Abstratas e Interfaces
-✅ Utilizar Polimorfismo de forma prática
-✅ Criar uma Interface Gráfica intuitiva com Swing
-✅ Gerenciar coleções com ArrayList
-✅ Aplicar boas práticas de Encapsulamento
+Aplicar conceitos de Herança em Java
+
+
+Implementar Classes Abstratas e Interfaces
+
+ 
+Utilizar Polimorfismo de forma prática
+
+
+Criar uma Interface Gráfica intuitiva com Swing
+
+
+Gerenciar coleções com ArrayList
+
+
+Aplicar boas práticas de Encapsulamento
 
 
 ✨ Funcionalidades
