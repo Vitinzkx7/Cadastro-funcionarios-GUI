@@ -39,21 +39,35 @@ Sênior: 15%
 
 Estagiário: com escola e meses de estágio (sem bônus)
 
-Funcionalidades da Interface
+
+
+# Funcionalidades da Interface:
 
  Cadastrar: Adiciona novos funcionários ao sistema
  Exibir Dados: Lista todos os funcionários cadastrados
  Limpar: Limpa os campos do formulário
  Atualização Dinâmica: Campos específicos aparecem conforme o cargo selecionado
 
-Recursos Avançados
+# Recursos Avançados:
 
-✅ Validação completa de dados
-✅ Formatação monetária (R$ 0,00)
-✅ Armazenamento múltiplo com ArrayList
-✅ Interface responsiva com JLayeredPane
-✅ Confirmação de ações críticas
-✅ Mensagens informativas e de erro
+Validação completa de dados
+
+
+Formatação monetária (R$ 0,00)
+
+
+Armazenamento múltiplo com ArrayList
+
+
+Interface responsiva com JLayeredPane
+
+
+Confirmação de ações críticas
+
+
+Mensagens informativas e de erro
+
+
 
 # Arquitetura do Projeto
 CadastroFuncionariosGUI/
