@@ -73,7 +73,8 @@ Funcionario (abstract)
             └───────────────┴─── implements Bonus
                                   └── calcularBonus(): double
 
-Como Usar
+Como Usar: 
+
 1️⃣ Cadastrar um Funcionário
 
 Preencha o Nome e Salário Base
